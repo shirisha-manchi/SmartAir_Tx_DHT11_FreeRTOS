@@ -1,0 +1,32 @@
+# Build folders
+build/
+Debug/
+Release/
+
+# Object files
+*.o
+*.obj
+*.d
+
+# Binary files
+*.elf
+*.bin
+*.hex
+*.map
+
+# Logs
+*.log
+
+# IDE settings
+.settings/
+.metadata/
+.project
+.cproject
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
